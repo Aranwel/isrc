@@ -1,0 +1,15 @@
+{
+    "name": "aranwel/isrc",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Aranwel",
+            "email": "gwenael.fouche@ecole-air.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "2.x-dev"
+    }
+}
