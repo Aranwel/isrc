@@ -8,8 +8,7 @@
             "email": "gwenael.fouche@ecole-air.fr"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "monolog/monolog": "2.x-dev"
     }
 }
